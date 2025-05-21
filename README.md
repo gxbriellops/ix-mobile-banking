@@ -1,6 +1,6 @@
 # iX Mobile Banking Prediction Challenge
 
-## (Notebook com códigos e visualizações)[https://github.com/gxbriellops/ix-mobile-banking/blob/main/analise.ipynb]
+## [Notebook com códigos e visualizações](https://github.com/gxbriellops/ix-mobile-banking/blob/main/analise.ipynb)
 
 ## Análise Exploratória de Dados
 
